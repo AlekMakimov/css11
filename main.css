@@ -1,0 +1,14 @@
+body{
+	background-image: url("auto.jpg");
+	background-size: 25%;
+	background-repeat: repeat-x;
+	background-color: pink;
+	margin-top: 20px;
+	margin-left: 20px;
+}
+ul{
+	list-style: lower-roman;
+	color: white;
+	text-transform: uppercase;
+	font-weight: 700;
+}	
